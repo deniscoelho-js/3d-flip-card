@@ -1,5 +1,7 @@
 # 3D Flip Card
 
+![3d-cover](https://user-images.githubusercontent.com/83840866/154327506-77d75fa8-91dc-4eda-808e-0b976e2b2282.gif)
+
 ## Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
